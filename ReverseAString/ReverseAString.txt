@@ -1,0 +1,1 @@
+#Project Goal: To create a program that requires a user input
