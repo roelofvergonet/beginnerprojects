@@ -1,1 +1,1 @@
-#Project Goal: To create a program that requires a user input of a string (a-z), the program #then returns the input as a string but reversed (z-a). 
+#Project Goal: To create a program that requires a user input of a string (a-z), the program then returns the input as a string but reversed (z-a). 
