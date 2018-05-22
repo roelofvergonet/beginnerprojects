@@ -1,16 +1,16 @@
 #Project Goal: To create a program that requires a user input of a string (a-z), the program then returns the input as a string but reversed (z-a). 
 
 def ReverseAString( s ):
-	str = “”
+	str = ""
 	for i in s:
 		str = i + str
 	return str
 	
-s = input(“Enter a string that’ll be reversed:”)
-print (“The entered string is: ”)
+s = input("Enter a string that’ll be reversed:")
+print ("The entered string is: ")
 print (s)
 
-print (“The reversed string is: “)
+print ("The reversed string is: ")
 print (ReverseAString(s))
 	
 	
