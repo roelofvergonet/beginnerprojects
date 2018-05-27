@@ -1,5 +1,6 @@
 #Project Goal: To create a program that requires a user input of a string (a-z), the program then returns the input as a string but reversed (z-a). 
 
+
 def ReverseAString( s ):
 	str = ""
 	for i in s:
@@ -14,3 +15,4 @@ print ("The reversed string is: ")
 print (ReverseAString(s))
 	
 	
+# The next project is programming a "Pig Latin" game.

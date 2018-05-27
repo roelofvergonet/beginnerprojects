@@ -13,3 +13,4 @@ print (s)
 print (“The reversed string is: “)
 print (ReverseAString(s))
 	
+# The next project is programming a "Pig Latin" game.
